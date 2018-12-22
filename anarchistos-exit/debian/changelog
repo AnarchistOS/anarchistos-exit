@@ -1,0 +1,18 @@
+anarchistos-exit (1.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Sat, 22 Dec 2018 19:38:43 +0100
+
+cbpp-exit (1.0) unstable; urgency=low
+
+  * Initial Release.
+  * Removed cb-lock mention and patched to systemctl commands.
+
+ -- crunch <crunch@crunchbang>  Mon, 23 Feb 2015 21:52:25 -0600
+
+cb-exit (0.01) unstable; urgency=low
+
+  * Initial release.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 16 Apr 2012 11:28:48 +0100

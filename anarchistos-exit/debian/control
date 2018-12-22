@@ -1,0 +1,13 @@
+Source: anarchistos-exit
+Section: misc
+Priority: extra
+Maintainer: AreYouLoco? <areyouloco@paranoici.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://www.anarchistos.tk/
+
+Package: anarchistos-exit
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-gtk2, consolekit, upower
+Description: AnarchistOS logout script.
+ GUI logout/shutdown/restart/suspend script.
