@@ -1,6 +1,7 @@
 anarchistos-exit (1.1) unstable; urgency=low
 
   * Initial Release.
+  * Ported to AnarchistOS.
 
  -- AreYouLoco? <areyouloco@paranoici.org>  Sat, 22 Dec 2018 19:38:43 +0100
 
